@@ -9,4 +9,6 @@ p[i]=src[i];
 p[i]='\0';
 return *p;
 }
-
+/ **
+远程edit
+**/
